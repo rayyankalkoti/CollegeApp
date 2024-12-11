@@ -9,7 +9,7 @@ public class WorkshopConroller {
 
 @GetMapping("/workshop")
 public @ResponseBody String getWorkshop() {
-return "Welcome to the workshop";
+return "Welcome to the workshop lab";
 }
 
 
